@@ -1,0 +1,7 @@
+# The Funniest AI Out-of-Office Reply — entry
+
+[![make.fun · u-yuki-kato-the-funniest-ai-out-of-office-reply-d2a8974d](https://make.fun/badge/u-yuki-kato-the-funniest-ai-out-of-office-reply-d2a8974d.svg)](https://make.fun/bounty/u-yuki-kato-the-funniest-ai-out-of-office-reply-d2a8974d?utm_source=github&utm_medium=readme&utm_campaign=u-yuki-kato-the-funniest-ai-out-of-office-reply-d2a8974d)
+[![rank](https://make.fun/badge/u-yuki-kato-the-funniest-ai-out-of-office-reply-d2a8974d/kizuna99/u-yuki-kato-the-funniest-ai-out-of-office-reply-d2a8974d-entry/rank.svg)](https://make.fun/bounty/u-yuki-kato-the-funniest-ai-out-of-office-reply-d2a8974d/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-yuki-kato-the-funniest-ai-out-of-office-reply-d2a8974d)
+[![reward](https://make.fun/badge/u-yuki-kato-the-funniest-ai-out-of-office-reply-d2a8974d/kizuna99/u-yuki-kato-the-funniest-ai-out-of-office-reply-d2a8974d-entry/reward.svg)](https://make.fun/bounty/u-yuki-kato-the-funniest-ai-out-of-office-reply-d2a8974d?utm_source=github&utm_medium=readme&utm_campaign=u-yuki-kato-the-funniest-ai-out-of-office-reply-d2a8974d)
+
+A Python program (`main.py`) that writes one out-of-office auto-reply — an AI agent gone on vacation, leaving its overconfident backup model in charge — to `/output/entry.txt`. The line is 146 characters, well inside the 160-character gate, and is byte-identical on every run.
